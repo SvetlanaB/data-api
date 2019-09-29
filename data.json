@@ -13,7 +13,7 @@
           "type": "Kv",
           "name": "n",
           "ap": 1,
-          "weight": 10
+          "weight": 10 
         },
         {
           "id": 2,
@@ -34,14 +34,16 @@
           "type": "Zoo",
           "name": "n",
           "ap": 4,
-          "weight": 10
+          "weight": 10;
+          "assign": "HOME"  
         },
         {
           "id": 5,
           "type": "Zoo",
           "name": "n",
           "ap": 5,
-          "weight": 10
+          "weight": 10;
+          "assign": "REQUIRE"  
         },
         {
           "id": 6,
